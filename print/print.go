@@ -3,6 +3,6 @@ package print
 import "fmt"
 
 func Print() {
-	fmt.Println("github.com/confierrot/tg_test, v0.2.4")
+	fmt.Println("github.com/confierrot/tg_test, v0.2.5")
 }
 
